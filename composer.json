@@ -1,0 +1,9 @@
+{
+	"authors": [
+		{ "email": "bapplibappli.com", "name": "B-APPLI"  }
+	],
+	"description":  "An empty repository in order to claim our name where needed",
+	"license":      "MIT",
+	"name":         "bappli/repome"
+}
+
